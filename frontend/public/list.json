@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "Brand":"Zara",
+        "description":"A sleek black leather jacket with a smooth finish, perfect for adding an edgy look to your casual outfits.",
+        "image":"https://img.freepik.com/premium-psd/summer-fashion-sale-instagram-post-template_208141-221.jpg?w=740",
+        "oldprice":1000,
+        "newprice":800
+    },
+    {
+        "id":2,
+        "Brand":"Levi's",
+        "description":"Comfortable, high-waisted blue denim jeans with a relaxed fit, ideal for everyday wear.",
+        "image":"https://img.freepik.com/free-psd/special-offer-candy-shop-yellow-square-flyer-template_23-2148391360.jpg?t=st=1736873006~exp=1736876606~hmac=4840454a331ee3bea1733655d5354cff1466fe9235d446ffd7de4debe24e54bd&w=740",
+        "oldprice":1500,
+        "newprice":800
+    },
+    {
+        "id":3,
+        "Brand":"H&M",
+        "description":"A lightweight cotton T-shirt featuring a bold graphic print, designed for both style and comfort.",
+        "image":"https://img.freepik.com/free-photo/young-handsome-man-choosing-hat-shop_1303-19835.jpg?t=st=1736873047~exp=1736876647~hmac=a1e9de450f28522a9f9c478e20d25420ac00d505e0d5c14c8f240639b7ea7ad7&w=360",
+        "oldprice":2000,
+        "newprice":800
+    },
+    {
+        "id":4,
+        "Brand":"Forever 21",
+        "description":"Elegant chiffon maxi dress with a floral pattern and flowy silhouette, great for formal occasions.",
+        "image":"https://img.freepik.com/free-photo/playful-shy-woman-hiding-shopping-pack-laughing-timid-cute-woman-smiling-happy-through-hands-black-hat-grey-coat-black-dress-autumn-clothes-warm-winter-style_343629-161.jpg?t=st=1736873092~exp=1736876692~hmac=956873fdceb36ac9aed80612acd1aac6c7939214c5529a2a4353fb45e4288846&w=996",
+        "oldprice":1800,
+        "newprice":800
+    },
+    {
+        "id":5,
+        "Brand":"Nike",
+        "description":"Breathable sportswear hoodie with moisture-wicking fabric, designed for active lifestyles.",
+        "image":"https://img.freepik.com/free-photo/studio-portrait-stylish-casual-male-dressed-red-shirt-braces_613910-3017.jpg?t=st=1736873131~exp=1736876731~hmac=293c8f1bbf319034820ff815687090d21eec66ecdd575d5e10374770742c2cf8&w=996",
+        "oldprice":3500,
+        "newprice":800
+    },
+    {
+        "id":6,
+        "Brand":"The North Face",
+        "description":"Durable waterproof hiking boots with excellent grip, designed for outdoor enthusiasts.",
+        "image":"https://img.freepik.com/free-photo/man-with-camera-yellow-scene_23-2148184796.jpg?t=st=1736873184~exp=1736876784~hmac=881449f6aa795173243becd28b3297560d7cc4f186510782d3c0a3c54c1ab3ab&w=740",
+        "oldprice":1600,
+        "newprice":800
+    }
+
+]
+
